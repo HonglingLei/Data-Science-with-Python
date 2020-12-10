@@ -2,7 +2,7 @@
 This repository contains the homework and projects I finished throughout the Introduction to Data Science class taught by Qinghua Zhao. 
 Many thanks to Prof. Zhao for his amazing teaching.
 
-## Topics covered
+# Topics Covered
 * Python operations
 * Association rule mining
 * Machine learning concepts 
