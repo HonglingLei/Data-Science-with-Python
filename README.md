@@ -4,6 +4,11 @@ This repository contains the homework and projects I finished throughout the Int
 Topics covered: 
 * Python operations
 * Association rule mining
-* Machine learning concepts (KNN, K-means, decision tree, auto=encoder, neural network)
+* Machine learning concepts 
+  * KNN
+  * K-means
+  * Decision tree
+  * Auto-encoder
+  * Neural network
 * HTML basics
 * Web crawling
