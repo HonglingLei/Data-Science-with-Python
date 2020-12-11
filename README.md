@@ -5,7 +5,7 @@ Many thanks to Prof. Zhao for his amazing teaching.
 # Topics Covered
 * Python operations
 * Association rule mining
-* Machine learning concepts 
+* Machine learning concepts and applications
   * KNN
   * K-means
   * Decision tree
